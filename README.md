@@ -1,8 +1,8 @@
-# Distributing software with NuGet
+# Distributing applications with NuGet
 
 This project is an example of how to use NuGet to distribute desktop applications, if you want to know more details access the article in Portuguese at the link below.
 
-https://medium.com/@wellington.pires/distribuindo-aplica%C3%A7%C3%B5es-com-nuget-a10a511694b2
+https://medium.com/@wellington.pires/distribuindo-aplicações-com-nuget-a10a511694b2
 
 
 # Flowchart of operation
