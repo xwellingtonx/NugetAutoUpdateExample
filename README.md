@@ -1,4 +1,4 @@
-# Distributing Applications with NuGet
+# Distributing software with NuGet
 
 This project is an example of how to use NuGet to distribute desktop applications, if you want to know more details access the article in Portuguese at the link below.
 
