@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Wellington.ConsoleApp</id>
+    <version>1.0.0</version>
+    <authors>Wellington Pires</authors>
+    <owners>Wellington Pires</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An example package for a console application</description>
+    <copyright>Copyright 2017</copyright>
+  </metadata>
+    <files>
+      <file src="bin\Release\**" target="bin"/>
+    </files>
+</package>
