@@ -16,6 +16,7 @@ https://medium.com/@wellington.pires/distribuindo-aplicações-com-nuget-a10a511
 nuget pack Package.nuspec -properties Configuration=Release
 ```
 2 - Copy the created package to the Packages directory of the MyNuGetServer project and then build the project
+
 3 - Finally build the ConsoleApp.Launcher project
 
 You will get a result similar to this case the package is large enough not to be downloaded and installed quickly
