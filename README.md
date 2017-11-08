@@ -21,7 +21,7 @@ nuget pack Package.nuspec -properties Configuration=Release
 
 You will get a result similar to this case the package is large enough not to be downloaded and installed quickly
 
-# Flowchart of operation
+# Example
 ![alt text](https://raw.githubusercontent.com/xwellingtonx/NugetAutoUpdateExample/master/images/launcher.gif "ConsoleApp.Launcher")
 
 # References
